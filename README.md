@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Мария 👋
 
-<!--
-**MashaAlkhovaya/mashaalkhovaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я в процессе перехода в frontend-разработку — осваиваю 
+создание интерфейсов и увлечена этой сферой.
 
-Here are some ideas to get you started:
+## 🛠 Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📚 Сейчас изучаю
+
+- TypeScript
+- ООП
+- React
+
+## 🎯 Планы
+
+Развиваться в frontend-разработке, создавать современные 
+веб-приложения на React.
